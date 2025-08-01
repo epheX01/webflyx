@@ -1,0 +1,120 @@
+[33mcommit feb30e3e6923afafcb7139fba4df07fadeec8a00[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Thu Jul 31 08:17:11 2025 +0200
+
+    J: updated titles
+
+[33mcommit 1b78fbacb8a7d7b9f340fae4e2e4d96380781b75[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 10:18:33 2025 +0200
+
+    I: that
+
+[33mcommit b2a4d076ce8c1d11f999d2c1d7b2b556b25fbba4[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 10:17:50 2025 +0200
+
+    H: this
+
+[33mcommit d08697f304c08ea26a9b13409e241db0a1b40ace[m[33m ([m[1;32mmain[m[33m)[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 10:05:01 2025 +0200
+
+    G: change titles.md
+
+[33mcommit 3b8391040f2487f4ec4080b0231e7d3990db99a8[m
+Merge: ecf6b0b 64a21eb
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 09:55:09 2025 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit ecf6b0b8e5b8fa70c20ba2bb6d95e671a542538d[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 09:52:22 2025 +0200
+
+    E: merge
+
+[33mcommit 64a21eb9112598e039a04a496135cd0d9679c70a[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Tue Jul 29 09:42:34 2025 +0200
+
+    D: add classics file
+
+[33mcommit 746469a742fd2d7b3fe9a633b5f2882bb0cf9af8[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Mon Jul 28 23:32:02 2025 +0200
+
+    C: add quotes 3
+
+[33mcommit 4822eee70af28f33385ac7b60fc9e980e6e5bfd7[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Mon Jul 28 23:28:19 2025 +0200
+
+    C: add quotes
+
+[33mcommit 6a5d8fa89407808631337cc68e6869e2908cce74[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Mon Jul 28 22:59:11 2025 +0200
+
+    B: this
+
+[33mcommit 938d05f8bb5e270fb70766728a04d8bb885c8ca9[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Wed Jul 23 10:26:04 2025 +0200
+
+    A: add contents.md
+
+[33mcommit b345f81aa3ba7284947957218dd9bdf8f31256e6[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Wed Jul 23 10:24:06 2025 +0200
+
+    removed contents.md from tracking
+
+[33mcommit 381d373d21f1cef3efada4569716b5d81700f608[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 13:25:40 2025 +0100
+
+    E: readdded
+
+[33mcommit 3b9bd66ffd3cd13b5550af1c78bf0fcbf9c83977[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 13:24:38 2025 +0100
+
+    D:
+
+[33mcommit 6c47b025906ddba70b313d9cc3d42d1e74af49d7[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 13:23:56 2025 +0100
+
+    B:
+
+[33mcommit 848934dddc1cd8e2a2e0273cd5bbbd755201c2b5[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 13:22:59 2025 +0100
+
+    A:
+
+[33mcommit c9b1dc050cb04fbd79586abc9091a940a3c7529c[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 13:21:00 2025 +0100
+
+    E: contents text added
+
+[33mcommit 2c38cc29bb8af5535bb7e5876187f015e01f3c0d[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 12:48:24 2025 +0100
+
+    C: add quotes
+
+[33mcommit 5175bdf5441d059c964b161d5f4a6f6b275084e1[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 12:44:46 2025 +0100
+
+    add titles.md
+
+[33mcommit 4c8cf326c16a30856e09d0d68d7f398acd930e97[m
+Author: epheX01 <stefanvallendar@gmail.com>
+Date:   Sat Mar 22 12:43:31 2025 +0100
+
+    add contents.md
